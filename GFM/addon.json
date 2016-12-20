@@ -1,0 +1,11 @@
+{
+	"title"		:	"GMod Freedom Mod",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "build", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
